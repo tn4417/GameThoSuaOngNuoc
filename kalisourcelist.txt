@@ -1,0 +1,9 @@
+deb http://kali.download/kali kali-rolling main non-free contrib
+deb-src http://kali.download/kali kali-rolling main non-free contrib
+deb http://kali.download/kali kali-last-snapshot main non-free contrib
+deb http://kali.download/kali kali-experimental main non-free contrib
+deb http://kali.download/kali kali-bleeding-edge main contrib non-free
+
+deb http://kali.download/kali kali-dev main contrib non-free
+deb http://kali.download/kali kali-dev main/debian-installer
+deb-src http://kali.download/kali kali-dev main contrib non-free
